@@ -35,8 +35,6 @@ The value of a variance swap is given by
 
 References:
 
-https://finpricing.com/lib/EqVariance.html
-
-https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMjM5kzN3MTPkl0av9mY
+https://finpricing.com/lib/FiZeroBond.html
 
 
